@@ -15,10 +15,10 @@ spring:
 #阿里云 OSS
 #不同的服务器，地址不同
 tencent:
-  appId: 1304534925
-  secretId: AKIDe7LK2TFl22kCPO7amiOcaHgohJeiV1II
-  secretKey: atviFUTCj01mPnxrWw75nFSREn55ovwk
-  region: ap-chengdu
-  photoBucket: edu-1010-1304534925
+  appId:
+  secretId:
+  secretKey:
+  region:
+  photoBucket:
 
 
