@@ -14,7 +14,7 @@ spring:
       discovery:
         server-addr: 127.0.0.1:8848
   redis:
-    host: 162.14.79.188
+    host:
     port: 6379
     database: 0
     timeout: 1800000
@@ -25,5 +25,5 @@ spring:
         max-idle: 5
         min-idle: 0
 myEmail:
-  myEmail: huntercow@163.com
-  secrectKey: TCQVZNPWFERVMKEA
+  myEmail:
+  secrectKey:
